@@ -6,3 +6,8 @@
 - [x] a script to provide man-machine combat function
 - [] a smarter script :)
 - [] switch between vs. ai & vs. ur friend
+$$
+
+- [x] 看论文
+- [ ] 吃饭
+$$
