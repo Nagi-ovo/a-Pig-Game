@@ -1,8 +1,9 @@
 # a-Pig-Game
 
-this is a pig game made during learning a UDEMY js course
+
 
 ------------------------------------------------------------------
+this is a pig game made during learning a UDEMY js course
 
 
 **Muiltiplayer** Version is on the main branch also the gh-pages: https://nagi-ovo.github.io/a-Pig-Game/
