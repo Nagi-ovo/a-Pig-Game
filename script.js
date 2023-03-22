@@ -97,3 +97,16 @@ btnNew.addEventListener('click', function () {
   init();
   switchPlayer();
 });
+
+// const ai = function () {
+//   for (let i = 0; i < 10; i++) {
+//     btnRoll.click();
+//     btnRoll.click();
+//     btnHold.click();
+//   }
+// };
+
+// while (playing && activePlayer == 1) {
+//   btnRoll.click();
+//   ai();
+// }
