@@ -104,6 +104,11 @@ const aiTurn = function () {
         currentScore += dice2;
         document.getElementById(`current--${activePlayer}`).textContent =
           currentScore;
+        if (dice2 !== 1) {
+          currentScore += dice2 - 2;
+          document.getElementById(`current--${activePlayer}`).textContent =
+            currentScore;
+        }
       }
 
       if (currentScore + scores[activePlayer] >= 100) {
